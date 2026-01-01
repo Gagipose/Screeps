@@ -1,0 +1,12 @@
+# Cursor AI Rules
+
+## Git Operations
+- NEVER push to git without explicit user permission
+- Always ask before running `git push` or `git push --force`
+- User must explicitly request pushing before any push operation
+
+## General Guidelines
+- Ask for clarification when unsure
+- Explain what you're doing before making changes
+- Respect user preferences and coding style
+
