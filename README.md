@@ -24,8 +24,6 @@ Writing code for Screeps (a game where you code your units) and using AI to:
 
 ## Current Status
 
-Just getting started! 🚀
+Just getting started!
 
 ---
-
-*This is an experiment, not a tutorial. Your mileage may vary.*
